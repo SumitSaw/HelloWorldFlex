@@ -6,11 +6,11 @@
   <modelVersion>4.0.0</modelVersion>
  
   <groupId>com.treasuryofideas</groupId>
-  <artifactId>flex4app</artifactId>
+  <artifactId>HelloWorldFlex</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>swf</packaging>
+  <packaging>jar</packaging>
  
-  <name>flex 4 app</name>
+  <name>HelloWorldFlex</name>
 
   <build>
     <sourceDirectory>src</sourceDirectory>
